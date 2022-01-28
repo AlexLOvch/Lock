@@ -36,3 +36,8 @@ Example of using:
 $ ruby unlock.rb -f 0,0,0 -t 1,1,1 -e '[[0,0,1], [1,0,0]]'
 [[0, 0, 0], [0, 1, 0], [1, 1, 0], [1, 1, 1]]
 ```
+
+To run specs type:
+```console
+$ rspec
+```
